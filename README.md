@@ -1,1 +1,1 @@
-# openrox
+The OPENROX is a C library that aims to provide real-time algorithms for robotics
